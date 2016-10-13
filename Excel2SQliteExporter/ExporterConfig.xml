@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Exporter-Config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SQLite-Path>e:\proyectos\TTT2SkillHelper\assets\ttt2data.db3</SQLite-Path>
+  <Excel-Path>e:\Dropbox\framedata ttt2.xlsx</Excel-Path>
+  <SQLite-Path-T7>E:\proyectos\SkillHelperforTekken7\app\src\main\assets\t7data.db3</SQLite-Path-T7>
+  <Excel-Path-T7>E:\Dropbox\proyectos\framedata t7.xlsx</Excel-Path-T7>
+</Exporter-Config>
